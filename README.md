@@ -36,19 +36,45 @@ This history will be updated as the project evolves.
 
 ## Project governance
 
-- **Founder and sole project owner:** the repository owner.
+- **Founder and original creator:** the repository owner.
+- **Official repository:** [wjfpvh-glitch/MineBitcoinMobile](https://github.com/wjfpvh-glitch/MineBitcoinMobile).
 - **Official releases:** created and published only by the owner.
 - **Version decisions:** made only by the owner.
 - **External contributions:** do not become official until reviewed and accepted by the owner.
 - **AI assistance:** AI tools may help with research, explanations, code suggestions, and debugging, but they do not own the project or control its repository.
 
+## Credits and community copies
+
+If you publish a copy, fork, or derivative version where the applicable license or written permission allows it, please preserve clear credit to the original creator and include a visible link to the original repository:
+
+**Original creator:** wjfpvh-glitch  
+**Original project:** [MineBitcoinMobile](https://github.com/wjfpvh-glitch/MineBitcoinMobile)
+
+Please also:
+
+- Keep the original copyright and attribution notices.
+- Include a credits section naming the original creator and linking to the original repository.
+- Include a **Support the Original Creator** section with a link or details for voluntary donations to the original creator.
+- Clearly identify your copy as an independent or modified version.
+- Do not claim that your copy, fork, or build is an official MineBitcoinMobile release or is endorsed by the original creator.
+
+These attribution requests do not make an unofficial build an official release. Only the repository owner can publish official MineBitcoinMobile releases.
+
+## Support the Creator
+
+If you would like to support the original creator and the continued development of MineBitcoinMobile, voluntary donations are welcome.
+
+**Bitcoin (BTC) donation address:** To be added.
+
+Donations are voluntary. No benefits, features, or special access are granted in return.
+
 ## Source code and permissions
 
-This repository is public so that visitors can inspect the source code and follow the project's development. **Public visibility does not mean the project is open source or that reuse is authorized.**
+This repository is public so that visitors can inspect the source code and follow the project's development. **Public visibility does not mean the project is open source or that reuse is automatically authorized.**
 
-Unless the owner gives prior written permission, visitors are not authorized to copy, redistribute, modify, adapt, create derivative works from, or publish builds based on this project's code. The project is distributed under the **All Rights Reserved** terms in [LICENSE](LICENSE).
+The current [LICENSE](LICENSE) reserves all rights. Copying, redistributing, modifying, adapting, creating derivative works from, or publishing builds based on this project's code requires prior written permission from the owner, unless a later license version explicitly grants those rights.
 
-GitHub may still allow users to view, clone, or fork public repository content as a platform feature. These technical capabilities do not grant copyright permission to reuse or redistribute the code. The owner alone controls this original repository and its official releases. Unofficial copies, forks, and builds are not official MineBitcoinMobile releases.
+GitHub may still allow users to view, clone, or fork public repository content as a platform feature. These technical capabilities do not by themselves grant copyright permission to reuse or redistribute the code. The owner alone controls this original repository and its official releases.
 
 ## Development assistance
 
@@ -75,4 +101,4 @@ MineBitcoinMobile is provided as a software project. Users are responsible for t
 
 ## License
 
-All rights reserved. See [LICENSE](LICENSE). No open-source license is granted for this project. Third-party dependencies remain subject to their respective licenses.
+All rights reserved under the current [LICENSE](LICENSE). No open-source license is granted by the current license. Third-party dependencies remain subject to their respective licenses.
