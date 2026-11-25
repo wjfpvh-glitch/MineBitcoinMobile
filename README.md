@@ -64,7 +64,7 @@ These attribution requests do not make an unofficial build an official release. 
 
 If you would like to support the original creator and the continued development of MineBitcoinMobile, voluntary donations are welcome.
 
-**Bitcoin (BTC) donation address:** To be added.
+**Bitcoin (BTC) donation address:** `bc1qk02teyhdpptxtq88stk2s44yjljjlanzd25h4w`
 
 Donations are voluntary. No benefits, features, or special access are granted in return.
 
