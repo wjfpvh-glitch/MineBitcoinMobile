@@ -1,19 +1,47 @@
+MineBitcoinMobile Community Attribution License
+Version 1.0
 Copyright (c) 2026 wjfpvh-glitch
 
-All rights reserved.
+1. Permission
 
-MineBitcoinMobile is publicly available for viewing and reference purposes only.
+Subject to the conditions below, the copyright holder grants you a worldwide, non-exclusive, perpetual, royalty-free license to use, reproduce, copy, modify, adapt, merge, publish, and redistribute this software and derivative works, in source or binary form.
 
-Unless the copyright holder gives prior written permission, no permission is granted to:
-- copy, reproduce, or redistribute this software or substantial portions of it;
-- modify, adapt, translate, or create derivative works from this software;
-- publish, sublicense, sell, or commercially exploit this software;
-- distribute modified or unofficial builds represented as MineBitcoinMobile.
+This permission includes the right to publish independent forks and modified builds. You may not remove or misrepresent the attribution and identification requirements in this license.
 
-The repository being public does not place the software in the public domain and does not grant an open-source license. The copyright holder retains all rights under applicable law.
+2. Required attribution and preservation
 
-You may view the source code on GitHub. Any other use requires prior written permission from the copyright holder.
+When you redistribute the software or a derivative work, you must:
 
-The name MineBitcoinMobile, its branding, and official releases may not be used to imply endorsement or official status without the owner's written authorization.
+- Retain this license and all existing copyright and attribution notices.
+- Clearly credit the original creator as: "Original creator: wjfpvh-glitch".
+- Include a visible link to the original project: https://github.com/wjfpvh-glitch/MineBitcoinMobile
+- Include a section titled "Support the Original Creator" (or an equivalent clearly visible heading) containing the following Bitcoin donation address and stating that donations are voluntary and provide no benefits or special access:
+  Bitcoin (BTC): bc1qk02teyhdpptxtq88stk2s44yjljjlanzd25h4w
+- Clearly identify your distribution as an independent copy, fork, or modified version, and describe significant modifications when reasonably practical.
+- Include a copy of this license or a link to its full text.
 
-This notice does not override licenses of third-party components or dependencies included or used by the project. Those components remain subject to their own licenses.
+The donation is voluntary. This license does not require anyone to send money, and no payment is required to exercise the permissions granted here. The required donation section is an attribution/support notice only.
+
+3. No false claim of official status; trademarks
+
+You may not claim or imply that an independent copy, fork, modified build, or derivative work is an official MineBitcoinMobile release or is endorsed, maintained, or approved by the original creator.
+
+This license does not grant rights to use the MineBitcoinMobile name, logos, branding, or other trademarks to suggest official status or endorsement. You may identify the original project accurately for attribution and compatibility purposes.
+
+Only the original repository owner controls the original MineBitcoinMobile repository and decides which releases are official releases of that project.
+
+4. Third-party components
+
+This license applies only to material in this repository that the copyright holder is entitled to license. Third-party libraries, assets, and other components remain subject to their own copyright notices and license terms. You are responsible for identifying and complying with those terms.
+
+5. Disclaimer of warranty and limitation
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE SOFTWARE OR THE USE OF THE SOFTWARE, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE.
+
+6. Termination for non-compliance
+
+If you fail to comply with the conditions of this license, the permissions granted to you terminate automatically. Your permissions may be reinstated if the copyright holder expressly agrees in writing or if you fully correct the violation, to the extent permitted by applicable law.
+
+7. Acceptance
+
+By exercising any of the permissions granted under this license, you agree to comply with its conditions.
