@@ -42,6 +42,14 @@ This history will be updated as the project evolves.
 - **External contributions:** do not become official until reviewed and accepted by the owner.
 - **AI assistance:** AI tools may help with research, explanations, code suggestions, and debugging, but they do not own the project or control its repository.
 
+## Source code and permissions
+
+This repository is public so that visitors can inspect the source code and follow the project's development. **Public visibility does not mean the project is open source or that reuse is authorized.**
+
+Unless the owner gives prior written permission, visitors are not authorized to copy, redistribute, modify, adapt, create derivative works from, or publish builds based on this project's code. The project is distributed under the **All Rights Reserved** terms in [LICENSE](LICENSE).
+
+GitHub may still allow users to view, clone, or fork public repository content as a platform feature. These technical capabilities do not grant copyright permission to reuse or redistribute the code. The owner alone controls this original repository and its official releases. Unofficial copies, forks, and builds are not official MineBitcoinMobile releases.
+
 ## Development assistance
 
 The following AI assistants have been used as development tools:
@@ -67,4 +75,4 @@ MineBitcoinMobile is provided as a software project. Users are responsible for t
 
 ## License
 
-The repository owner will specify the project license. Until a license is added, no additional permissions should be assumed beyond the rights provided by applicable law.
+All rights reserved. See [LICENSE](LICENSE). No open-source license is granted for this project. Third-party dependencies remain subject to their respective licenses.
