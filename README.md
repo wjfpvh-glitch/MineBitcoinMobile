@@ -45,20 +45,21 @@ This history will be updated as the project evolves.
 
 ## Credits and community copies
 
-If you publish a copy, fork, or derivative version where the applicable license or written permission allows it, please preserve clear credit to the original creator and include a visible link to the original repository:
+The project is available under the **MineBitcoinMobile Community Attribution License** in [LICENSE](LICENSE). That license permits copying, modification, and redistribution, including independent forks and derivative versions, provided its conditions are followed.
+
+When redistributing this project or a derivative version, the license requires you to:
+
+- Preserve the original copyright, license, and attribution notices.
+- Credit **wjfpvh-glitch** as the original creator.
+- Include a visible link to the original repository: [wjfpvh-glitch/MineBitcoinMobile](https://github.com/wjfpvh-glitch/MineBitcoinMobile).
+- Include a **Support the Original Creator** section with the voluntary BTC donation address shown below.
+- Clearly identify your distribution as an independent copy, fork, or modified version, and describe significant modifications when reasonably practical.
+- Never claim or imply that your copy is an official release or is endorsed by the original creator.
 
 **Original creator:** wjfpvh-glitch  
 **Original project:** [MineBitcoinMobile](https://github.com/wjfpvh-glitch/MineBitcoinMobile)
 
-Please also:
-
-- Keep the original copyright and attribution notices.
-- Include a credits section naming the original creator and linking to the original repository.
-- Include a **Support the Original Creator** section with a link or details for voluntary donations to the original creator.
-- Clearly identify your copy as an independent or modified version.
-- Do not claim that your copy, fork, or build is an official MineBitcoinMobile release or is endorsed by the original creator.
-
-These attribution requests do not make an unofficial build an official release. Only the repository owner can publish official MineBitcoinMobile releases.
+Only the repository owner controls this original repository and decides which releases are official MineBitcoinMobile releases.
 
 ## Support the Creator
 
@@ -66,15 +67,13 @@ If you would like to support the original creator and the continued development 
 
 **Bitcoin (BTC) donation address:** `bc1qk02teyhdpptxtq88stk2s44yjljjlanzd25h4w`
 
-Donations are voluntary. No benefits, features, or special access are granted in return.
+Donations are voluntary. No payment is required to use, copy, modify, or redistribute the project under the license. No benefits, features, or special access are granted in return. Redistributed copies must retain this donation notice as an attribution/support notice, as described in the license.
 
 ## Source code and permissions
 
-This repository is public so that visitors can inspect the source code and follow the project's development. **Public visibility does not mean the project is open source or that reuse is automatically authorized.**
+This repository is public and reuse is permitted under the conditions of the [MineBitcoinMobile Community Attribution License](LICENSE). The license allows copying, modification, and redistribution, provided its attribution, original-repository link, donation-notice, independent-version identification, and other terms are followed.
 
-The current [LICENSE](LICENSE) reserves all rights. Copying, redistributing, modifying, adapting, creating derivative works from, or publishing builds based on this project's code requires prior written permission from the owner, unless a later license version explicitly grants those rights.
-
-GitHub may still allow users to view, clone, or fork public repository content as a platform feature. These technical capabilities do not by themselves grant copyright permission to reuse or redistribute the code. The owner alone controls this original repository and its official releases.
+This is a custom license, not an OSI-approved open-source license. Third-party dependencies and components remain subject to their own licenses. The original creator retains control of this repository and its official releases.
 
 ## Development assistance
 
@@ -101,4 +100,4 @@ MineBitcoinMobile is provided as a software project. Users are responsible for t
 
 ## License
 
-All rights reserved under the current [LICENSE](LICENSE). No open-source license is granted by the current license. Third-party dependencies remain subject to their respective licenses.
+See the [MineBitcoinMobile Community Attribution License](LICENSE) for the permissions and conditions governing copying, modification, and redistribution. This is a custom license, not an OSI-approved open-source license. Third-party dependencies remain subject to their respective licenses.
